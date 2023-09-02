@@ -4,3 +4,5 @@ Tip Calculator For Beginners
 
 
 https://yassintipcalc.netlify.app/
+
+<h1>Contribution open for all</h1>
